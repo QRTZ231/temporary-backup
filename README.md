@@ -1,2 +1,0 @@
-# temporary-backup
-config backup
